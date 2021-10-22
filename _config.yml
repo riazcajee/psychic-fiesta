@@ -1,0 +1,12 @@
+nttitle: "My first github page"
+author: Riaz Cajee
+email: riaz.cajee@gmail.com
+description: > # New Github website with customised pages
+
+# social links
+
+github_username: riazcajee
+
+show_excerpts: True # set to false to remove excerpts on the homepage
+
+theme: jekyll-theme-minimal
